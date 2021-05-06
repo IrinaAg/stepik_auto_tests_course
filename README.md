@@ -1,2 +1,4 @@
 # stepik_auto_tests_course
-Домашнее задание к курсу
+stepik homework
+
+https://stepik.org/course/575/syllabus
